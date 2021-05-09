@@ -1,2 +1,5 @@
-## Hi Guys, I'm __Padua Feijão__!
+## Hi Guys, I'm Padua Feijão!
+
+
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 
