@@ -4,9 +4,10 @@ I am a __Full-Stack__ developer currently working with __[React Native](https://
 I've worked professionally with __[Java](https://www.java.com/pt-BR/)__, __[PlayFrameork](https://www.playframework.com/)__ and __[VueJs](https://vuejs.org/)__. In fre-lancer projects I have had experiences with __[Flutter](https://flutter.dev/)__, __[Angular](https://angular.io/)__ and __[Ionic](https://ionicframework.com/)__.
 
 Find me on __Bitbucket__ too
-![https://www.google.com](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+[![Bitbuckt Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/paduaBass)
 
 My contact means below
 
-![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 
