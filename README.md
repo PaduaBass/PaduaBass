@@ -1,13 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <h1 style="font-family: sans-serif;">Hello guys, welcome to my profile, my name is Padua Feijão!</h1>
-<hr>
-
-<style>
-  .text {
-    font-family: sans-serif;
-  }
-</style>
 
 I am a software developer specializing in frontend, I have extensive experience in creating web, mobile and rest API systems.
 
