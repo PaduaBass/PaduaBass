@@ -41,6 +41,7 @@ My contact means below
 <h1 style="font-family: sans-serif;">Backend Skills</h1>
 <ul>
   <li class="text">NodeJS</li>
+  <li class="text">NestJs</li>
   <li class="text">Express.JS</li>
   <li class="text">PostgreSQL</li>
   <li class="text">MySQL</li>
